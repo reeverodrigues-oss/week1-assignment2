@@ -1,5 +1,5 @@
 # Assignment -1 
-Repository for Agentic Assignment 1
+Repository for Agentic Assignment 2
 
 # Windows - UV Prompt
 #   Commands                What it does
